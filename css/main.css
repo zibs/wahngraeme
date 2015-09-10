@@ -3,14 +3,23 @@
 /* ==========================================================================
    Author's custom styles
    ========================================================================== */
+body {
+	font-family: 'Merriweather', serif;
+}
+body > main.container > section.row > h1 {
+	font-style: italic;
+}
 
+img {
+	max-width: 100%;
+	margin-bottom: 3%;
+	width: 100%;
+}
 
-
-
-
-
-
-
+.artists p {
+ 	margin: 0;
+ 	font-weight: bold;
+}
 
 
 
